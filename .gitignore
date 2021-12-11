@@ -1,0 +1,7 @@
+/venv/
+/cache/
+/jqdata_test/
+*.pyc
+.idea/
+/stock-2.0/
+.DS_Store

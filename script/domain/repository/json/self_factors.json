@@ -1,0 +1,63 @@
+{
+  "focused_factors": {
+    "quality": [
+      "net_profit_to_total_operate_revenue_ttm",
+      "cfo_to_ev",
+      "accounts_payable_turnover_days",
+      "sale_expense_to_operating_revenue",
+      "net_operating_cash_flow_coverage",
+      "MLEV",
+      "super_quick_ratio",
+      "operating_profit_growth_rate",
+      "net_operate_cash_flow_to_asset",
+      "total_asset_turnover_rate",
+      "operating_profit_ratio",
+      "cash_rate_of_sales",
+      "operating_profit_to_operating_revenue",
+      "cash_to_current_liability",
+      "ACCA",
+      "margin_stability"
+    ],
+    "emotion": [
+      "VEMA12",
+      "VR",
+      "VOL5",
+      "BR",
+      "WVAD",
+      "MAWVAD",
+      "VSTD10",
+      "VOL10",
+      "VSTD20",
+      "VMACD",
+      "turnover_volatility",
+      "VEMA5"
+    ],
+    "growth": [
+      "total_profit_growth_rate",
+      "np_parent_company_owners_growth_rate",
+      "operating_revenue_growth_rate",
+      "net_operate_cashflow_growth_rate",
+      "financing_cash_growth_rate"
+    ],
+    "risk": [
+      "Variance20",
+      "Skewness20",
+      "Kurtosis20",
+      "sharpe_ratio_20"
+    ],
+    "per_stock": [
+      "cashflow_per_share_ttm",
+      "eps_ttm"
+    ],
+    "style": [
+      "size",
+      "beta",
+      "momentum",
+      "residual_volatility",
+      "non_linear_size",
+      "earnings_yield",
+      "growth"
+    ]
+  }
+}
+      
